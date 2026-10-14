@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #6ff55b;
-    --color-secundario: #12c426;
+    --color-primario: #f92828;
+    --color-secundario: #ce621f;
 }
 
 /*======================================
@@ -135,7 +135,7 @@ footer {
 
     padding: 25px;
 
-    color: white;
+    color: rgb(255, 255, 255);
 
     background: rgba(0,0,0,.15);
 
