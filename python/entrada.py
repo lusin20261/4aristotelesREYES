@@ -1,0 +1,5 @@
+a = input("escibe tu nombresito ... ")
+b = input("mi juego favorito es ...")
+c = input("mi comida favorita es ...")
+d = input("mi juego favorito es ...")
+print("hola soy",a,"mi juego favorito es",b,"mi comida favorita es",c,"mi juego favorito es",d,"gracias.")
