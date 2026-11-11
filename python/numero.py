@@ -1,0 +1,11 @@
+print("================bienvenidos a mi calculo==========================")
+a = input("ingresa el primer numerito: ")
+b = input("ingresa el segundo numerito: ")
+a = int(a)
+b = int(b)
+print("la suma es : ",a+b)
+print("la resta es : ",a-b)
+print("la multiplicación : ",a*b)
+print("la división : ",a/b)
+print("=================gracias==========================================")
+
